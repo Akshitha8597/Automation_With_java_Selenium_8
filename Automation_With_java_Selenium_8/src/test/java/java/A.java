@@ -1,11 +1,11 @@
-package java;
+package Java;
 
 public class A {
 
 	public static void main(String[] args) {
-	int a=5;
-	int b=6;
-	System.out.println(a+b);
+		int a=3;
+		int b=4;
+		System.out.println(a+b);
 
 	}
 

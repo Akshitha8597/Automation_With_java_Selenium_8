@@ -3,7 +3,7 @@ package pollscm;
 import org.testng.Reporter;
 import org.testng.annotations.Test;
 
-public class ToLearnPollSCM {
+public class ToLearnPollSCMTest {
 
 	@Test
 	public void pollScm() {
